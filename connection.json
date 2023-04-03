@@ -1,0 +1,9 @@
+{
+    "account": "",
+    "user": "",
+    "role": "",
+    "password": "",
+    "database": "FROSTBYTE_TASTY_BYTES",
+    "schema": "RAW_POS",
+    "warehouse": "LARGE"
+  }
